@@ -16,7 +16,7 @@
 
 ## Pride flag art: [**GALLERY**](pride); [code](https://github.com/tinarozsos/art/blob/main/code/pride.R)
 
-<img src="fig/pride3/pride532step0.2n1line.png" width="300"/>
+<img src="fig/pride/pride532step0.2n1line.png" width="300"/>
 
 # Inspiration
 

@@ -4,7 +4,7 @@ pages <- list.dirs("fig") |> str_extract("(?<=/).*") |> na.omit()
 
 for (page in pages) {
   files <- list.files(paste0("fig/", page), full.names = TRUE)
-  img <- map_chr(files, ~ paste0('<img style="float: left;" src="', ., '" width="450"/>')) |> 
+  img <- map_chr(files, ~ paste0('<img style="float: left;" src="', ., '" height="450"/>')) |> 
     paste(collapse = "\n")
   
   paste0(
