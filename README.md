@@ -2,29 +2,21 @@
 
 ## My work
 
-### Flows (inspired by Danielle Navarro's *Splatter*)
+### Flows (inspired by Danielle Navarro's *Splatter*): [**GALLERY**](flows); [code](https://github.com/tinarozsos/art/code/flows.R
 
-<img style="float: left;" src="fig/flows/flows258n1600.png" width="600"/>
+<img src="fig/flows/flows258n1600.png" width="300"/>
 
-[**GALLERY**](flows); [code](https://github.com/tinarozsos/art/code/flows.R)
+### Lines (inspired by Ijeamaka Anyene's *Radial patterns*): [**GALLERY**](lines); [code](https://github.com/tinarozsos/art/code/lines.R)
 
-### Lines (inspired by Ijeamaka Anyene's *Radial patterns*)
+<img src="fig/lines/circleline2.png" width="300"/>
 
-<img style="float: left;" src="fig/lines/circleline2.png" width="600"/>
+### Watercolor-like blobs (inspired by Tyler Hobbs's *Watercolors*): [**GALLERY**](watercolor); [code](https://github.com/tinarozsos/art/code/watercolor.R)
 
-[**GALLERY**](lines); [code](https://github.com/tinarozsos/art/code/lines.R)
+<img src="fig/watercolor/watercolor19n400.png" width="300"/>
 
-### Watercolor-like blobs (inspired by Tyler Hobbs's *Watercolors*)
+### Pride flag art: [**GALLERY**](pride); [code](https://github.com/tinarozsos/art/code/pride.R)
 
-<img style="float: left;" src="fig/watercolor/watercolor19n400.png" width="600"/>
-
-[**GALLERY**](watercolor); [code](https://github.com/tinarozsos/art/code/watercolor.R)
-
-### Pride flag art
-
-<img style="float: left;" src="fig/pride3/pride532step0.2n1line.png" width="600"/>
-
-[**GALLERY**](pride); [code](https://github.com/tinarozsos/art/code/pride.R)
+<img src="fig/pride3/pride532step0.2n1line.png" width="300"/>
 
 ## Inspiration
 

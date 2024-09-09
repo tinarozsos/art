@@ -1,0 +1,13 @@
+title: Generative art with R
+author: Tina Rozsos
+url: "https://tinarozsos.github.io/art"
+baseurl: "https://tinarozsos.github.io"
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks settings
+permalink: /:year/:month/:day/:title/
